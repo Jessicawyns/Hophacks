@@ -49,10 +49,6 @@ class Song_Button_ViewController: UIViewController {
         musicplayer.shuffleMode = .songs
         musicplayer.play()
         
-        
-        
-        
-        
     }
     
 }
